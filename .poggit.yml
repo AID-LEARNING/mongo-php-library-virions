@@ -1,10 +1,10 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/AID-LEARNING/mongo-php-library-virions
 build-by-default: true
 branches:
-  - master
+- master
 projects:
   mongo-php-library-virions:
-    path: "src/"
+    path: "src"
     model: virion
     type: library
 ...
