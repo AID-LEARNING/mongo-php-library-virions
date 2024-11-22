@@ -1,4 +1,4 @@
-name: libMongoDB
+name: mongo-php-library-virions
 author: mongodb
 api: 5.0.0
 version: 1.19.1
